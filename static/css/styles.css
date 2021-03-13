@@ -1,0 +1,143 @@
+:root {
+    --ui-primary: #105F63;
+    --ui-secondary: #6BB9BD;
+    --ui-tertiary: #D2EAEB;
+    --ui-quarternary: #FE692A;
+}
+
+.ui-bg-primary {
+    background-color: var(--ui-primary) !important;
+}
+
+.ui-text-primary {
+    color: var(--ui-primary) !important;
+}
+
+.ui-bg-secondary {
+    background-color: var(--ui-secondary) !important;
+}
+
+.ui-text-secondary {
+    color: var(--ui-secondary) !important;
+}
+
+.ui-bg-tertiary {
+    background-color: var(--ui-tertiary) !important;
+}
+
+.ui-text-tertiary {
+    color: var(--ui-tertiary) !important;
+}
+
+
+.ui-bg-quarternary {
+    background-color: var(--ui-quarternary) !important;
+}
+
+.ui-text-quarternary {
+    color: var(--ui-quarternary) !important;
+}
+
+
+.section {
+    min-height: 90vh;
+    margin-top: 10vh;
+}
+
+.list {
+    margin-left: 0px;
+}
+
+.list-item {
+    list-style-type: none;
+    margin: 0.5rem;
+}
+
+.footer a {
+    color: white;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-centered {
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.card-md {
+    min-width: 300px !important;
+    max-width: 300px;
+}
+
+.text-md {
+    font-size: 1.25rem;
+}
+
+.nav-link {
+    transition: background-color 0.3s linear;
+    border-radius: 2px;
+}
+
+.nav-link.active, .nav-link:hover {
+    background-color: var(--ui-primary);
+    color: white !important;
+    
+}
+
+
+.flex-1 {
+    flex: 1
+}
+
+.flex-2 {
+    flex: 2
+}
+
+.flex-4 {
+    flex: 4
+}
+
+.about-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+    overflow: hidden;
+    left: calc(50% - 75px);
+    top: -75px;
+}
+
+.about-img img {
+    width: 100%;
+    height: auto;
+}
+
+.about-card {
+    padding-top: 100px;
+    margin-top: 100px;
+}
+
+.customer-card {
+    padding-bottom: 60px;
+    position: relative;
+    margin-bottom: 60px !important;
+}
+
+.customer-card-img-bottom {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    left: calc(50% - 40px);
+    top: calc(100% - 40px);
+    overflow: hidden;
+    position: absolute;
+    background-color: white;
+    border: 3px solid var(--ui-secondary);
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
