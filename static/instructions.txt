@@ -1,0 +1,10 @@
+When you want to add more images please do the following:
+* Empty the folder labelled output in this file's directory
+* Place your new files in the input folder
+    IMPORTANT IMAGES WITH THE JPG EXTENSION WILL NOT WORK RENAME THEM TO .JPEG
+* Run img_processor.exe, It will create thumbnails and hi res images of all your pictures
+    in the input folder
+* It will also create a file named image.json.
+* Copy image.json to /static/js folder
+* Test on your local server
+* When satisfied upload to github
