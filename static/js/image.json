@@ -20,7 +20,7 @@
         "image": "output/FrontB_optimized.jpeg",
         "thumb": "output/FrontB_thumbnail.jpeg"
     }, {
-        "name": "Entryway Aafter",
+        "name": "Entryway After",
         "image": "output/FrontA_optimized.jpeg",
         "thumb": "output/FrontA_thumbnail.jpeg"
     },{
@@ -32,6 +32,10 @@
         "image": "output/Lounge_optimized.png",
         "thumb": "output/Lounge_thumbnail.png"
     }, {
+        "name": "PoolMA",
+        "image": "output/PoolMA_optimized.png",
+        "thumb": "output/PoolMA_thumbnail.png"
+    },{
         "name": "Pool 2",
         "image": "output/Pool2_optimized.png",
         "thumb": "output/Pool2_thumbnail.png"
@@ -43,11 +47,7 @@
         "name": "Pool After",
         "image": "output/PoolA_optimized.jpeg",
         "thumb": "output/PoolA_thumbnail.jpeg"
-    }, {
-        "name": "PoolMA",
-        "image": "output/PoolMA_optimized.png",
-        "thumb": "output/PoolMA_thumbnail.png"
-    }, {
+    },  {
         "name": "Roof Before",
         "image": "output/View2B_optimized.jpeg",
         "thumb": "output/View2B_thumbnail.jpeg"
