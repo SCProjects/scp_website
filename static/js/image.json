@@ -1,29 +1,49 @@
 {
     "images": [{
+        "name": "After",
+        "image": "output/After_optimized.JPEG",
+        "thumb": "output/After_thumbnail.JPEG"
+    }, {
         "name": "Bathroom",
         "image": "output/Bathroom_optimized.png",
         "thumb": "output/Bathroom_thumbnail.png"
     }, {
-        "name": "Cottage",
-        "image": "output/Cottage_optimized.png",
-        "thumb": "output/Cottage_thumbnail.png"
-    },  {
-        "name": "Coopers Before",
-        "image": "output/CoopersB_optimized.jpeg",
-        "thumb": "output/CoopersB_thumbnail.jpeg"
+        "name": "Ceiling After",
+        "image": "output/Ceiling After_optimized.jpeg",
+        "thumb": "output/Ceiling After_thumbnail.jpeg"
     }, {
-        "name": "Coopers After",
+        "name": "Ceiling Before",
+        "image": "output/Ceiling Before_optimized.jpeg",
+        "thumb": "output/Ceiling Before_thumbnail.jpeg"
+    }, {
+        "name": "CoopersA",
         "image": "output/CoopersA_optimized.jpeg",
         "thumb": "output/CoopersA_thumbnail.jpeg"
     }, {
-        "name": "Entryway Before",
+        "name": "CoopersB",
+        "image": "output/CoopersB_optimized.jpeg",
+        "thumb": "output/CoopersB_thumbnail.jpeg"
+    }, {
+        "name": "Cottage new",
+        "image": "output/Cottage new_optimized.jpeg",
+        "thumb": "output/Cottage new_thumbnail.jpeg"
+    }, {
+        "name": "Cottage",
+        "image": "output/Cottage_optimized.png",
+        "thumb": "output/Cottage_thumbnail.png"
+    }, {
+        "name": "Front After",
+        "image": "output/Front After_optimized.jpeg",
+        "thumb": "output/Front After_thumbnail.jpeg"
+    }, {
+        "name": "FrontA",
+        "image": "output/FrontA_optimized.jpeg",
+        "thumb": "output/FrontA_thumbnail.jpeg"
+    }, {
+        "name": "FrontB",
         "image": "output/FrontB_optimized.jpeg",
         "thumb": "output/FrontB_thumbnail.jpeg"
     }, {
-        "name": "Entryway After",
-        "image": "output/FrontA_optimized.jpeg",
-        "thumb": "output/FrontA_thumbnail.jpeg"
-    },{
         "name": "Kitchen ",
         "image": "output/Kitchen _optimized.png",
         "thumb": "output/Kitchen _thumbnail.png"
@@ -32,36 +52,60 @@
         "image": "output/Lounge_optimized.png",
         "thumb": "output/Lounge_thumbnail.png"
     }, {
-        "name": "PoolMA",
-        "image": "output/PoolMA_optimized.png",
-        "thumb": "output/PoolMA_thumbnail.png"
-    },{
-        "name": "Pool 2",
+        "name": "Pool L",
+        "image": "output/Pool L_optimized.jpeg",
+        "thumb": "output/Pool L_thumbnail.jpeg"
+    }, {
+        "name": "Pool2",
         "image": "output/Pool2_optimized.png",
         "thumb": "output/Pool2_thumbnail.png"
     }, {
-        "name": "Pool Before",
+        "name": "PoolA",
+        "image": "output/PoolA_optimized.jpeg",
+        "thumb": "output/PoolA_thumbnail.jpeg"
+    }, {
+        "name": "PoolB",
         "image": "output/PoolB_optimized.jpeg",
         "thumb": "output/PoolB_thumbnail.jpeg"
     }, {
-        "name": "Pool After",
-        "image": "output/PoolA_optimized.jpeg",
-        "thumb": "output/PoolA_thumbnail.jpeg"
-    },  {
-        "name": "Roof Before",
-        "image": "output/View2B_optimized.jpeg",
-        "thumb": "output/View2B_thumbnail.jpeg"
+        "name": "PoolL2",
+        "image": "output/PoolL2_optimized.jpeg",
+        "thumb": "output/PoolL2_thumbnail.jpeg"
     }, {
-        "name": "Roof After",
+        "name": "PoolMA",
+        "image": "output/PoolMA_optimized.png",
+        "thumb": "output/PoolMA_thumbnail.png"
+    }, {
+        "name": "View1 before",
+        "image": "output/View1 before_optimized.jpeg",
+        "thumb": "output/View1 before_thumbnail.jpeg"
+    }, {
+        "name": "View2 after",
+        "image": "output/View2 after_optimized.jpeg",
+        "thumb": "output/View2 after_thumbnail.jpeg"
+    }, {
+        "name": "View2A",
         "image": "output/View2A_optimized.jpeg",
         "thumb": "output/View2A_thumbnail.jpeg"
     }, {
-        "name": "Wall Before",
-        "image": "output/WR_optimized.png",
-        "thumb": "output/WR_thumbnail.png"
-    },{
+        "name": "View2B",
+        "image": "output/View2B_optimized.jpeg",
+        "thumb": "output/View2B_thumbnail.jpeg"
+    }, {
         "name": "Wall After",
+        "image": "output/Wall After_optimized.jpeg",
+        "thumb": "output/Wall After_thumbnail.jpeg"
+    }, {
+        "name": "Wall Before",
+        "image": "output/Wall Before_optimized.jpeg",
+        "thumb": "output/Wall Before_thumbnail.jpeg"
+    }, {
+        "name": "WC",
         "image": "output/WC_optimized.png",
         "thumb": "output/WC_thumbnail.png"
+    }, {
+        "name": "WR",
+        "image": "output/WR_optimized.png",
+        "thumb": "output/WR_thumbnail.png"
     }]
 }
