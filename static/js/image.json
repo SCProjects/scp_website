@@ -8,19 +8,19 @@
         "image": "output/Cottage_optimized.png",
         "thumb": "output/Cottage_thumbnail.png"
     },  {
-        "name": "CoopersB",
+        "name": "Coopers Before",
         "image": "output/CoopersB_optimized.jpeg",
         "thumb": "output/CoopersB_thumbnail.jpeg"
     }, {
-        "name": "CoopersA",
+        "name": "Coopers After",
         "image": "output/CoopersA_optimized.jpeg",
         "thumb": "output/CoopersA_thumbnail.jpeg"
     }, {
-        "name": "FrontB",
+        "name": "Entryway Before",
         "image": "output/FrontB_optimized.jpeg",
         "thumb": "output/FrontB_thumbnail.jpeg"
     }, {
-        "name": "FrontA",
+        "name": "Entryway Aafter",
         "image": "output/FrontA_optimized.jpeg",
         "thumb": "output/FrontA_thumbnail.jpeg"
     },{
@@ -32,15 +32,15 @@
         "image": "output/Lounge_optimized.png",
         "thumb": "output/Lounge_thumbnail.png"
     }, {
-        "name": "Pool2",
+        "name": "Pool 2",
         "image": "output/Pool2_optimized.png",
         "thumb": "output/Pool2_thumbnail.png"
     }, {
-        "name": "PoolB",
+        "name": "Pool Before",
         "image": "output/PoolB_optimized.jpeg",
         "thumb": "output/PoolB_thumbnail.jpeg"
     }, {
-        "name": "PoolA",
+        "name": "Pool After",
         "image": "output/PoolA_optimized.jpeg",
         "thumb": "output/PoolA_thumbnail.jpeg"
     }, {
@@ -48,20 +48,20 @@
         "image": "output/PoolMA_optimized.png",
         "thumb": "output/PoolMA_thumbnail.png"
     }, {
-        "name": "View2B",
+        "name": "Roof Before",
         "image": "output/View2B_optimized.jpeg",
         "thumb": "output/View2B_thumbnail.jpeg"
     }, {
-        "name": "View2A",
+        "name": "Roof After",
         "image": "output/View2A_optimized.jpeg",
         "thumb": "output/View2A_thumbnail.jpeg"
     }, {
-        "name": "WC",
-        "image": "output/WC_optimized.png",
-        "thumb": "output/WC_thumbnail.png"
-    }, {
-        "name": "WR",
+        "name": "Wall Before",
         "image": "output/WR_optimized.png",
         "thumb": "output/WR_thumbnail.png"
+    },{
+        "name": "Wall After",
+        "image": "output/WC_optimized.png",
+        "thumb": "output/WC_thumbnail.png"
     }]
 }
